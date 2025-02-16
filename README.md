@@ -13,7 +13,7 @@ To get started with this project, follow the steps below:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/09Jeanette/mobile-recipe-app.git
+   git clone https://github.com/09Jeanette/my-recipe-box.git
    ```
 1.2 **Navigate to your project directory**
 ```bash
